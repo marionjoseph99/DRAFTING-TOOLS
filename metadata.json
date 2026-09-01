@@ -1,0 +1,6 @@
+{
+  "name": "KGS Drafting QA & Data Extractor",
+  "description": "Countertop drafting QA inspector and Moraware data extractor with AutoCAD copy shortcuts, multi-phase CAD verification, and PDF drawing inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
